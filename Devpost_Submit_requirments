@@ -1,0 +1,29 @@
+Project overview
+Please respect our (Community guidelines: Devpost is a place for software makers to showcase what they've made, discover software made by their peers, find great teams to work with, and discover opportunities to create more software through online and in-person hackathons. Help us maintain a high quality and engaging community by following the guidelines below. If you see something that's out of line, please report it or notify us at abuse at devpost dot com.
+Be honest Our community values integrity, so represent yourself, your work, and your team or company accurately on your Devpost profile or Team Page.
+Only add your own work Don't submit projects that you did not create or work on. If you know of great projects that should be here but aren't, ask the creators to add them!
+Give credit If someone helped you or contributed to your project, add them as a teammate so they get credit too.
+Respect others' rights to their own work Only upload materials which you created or have the right to use. Make sure content you upload (including images and demo videos) does not include music, footage, images, or trademarks that are someone else's property -- unless you have permission to use it.
+Be nice We like to celebrate software and help each other improve our skills. Please stick to constructive feedback and leave any snark / sarcasm / ego at home. Any content that is abusive, threatening, expresses hatred, or is likely to offend others is unacceptable and may result in the content being removed or the suspension or termination of your account. When in doubt, remember the Golden Rule.
+Keep it clean The Devpost community includes minors (13 years of age and older) and people from countries all over the world. Please respect the diversity of our community. Content containing illegal or excessive obscene or foul language, excessive violence, nudity, or sexual activity will be flagged and removed. Content that is abusive or likely to be offensive to others may also be flagged and removed. Bottomline: If you wouldn't show it to your grandmother, it doesn't belong on Devpost!
+Respect others' privacy Do not post personal or private information about others such as photos (unless you have permission), telephone numbers, or email / physical addresses.
+No spam Devpost is a place to showcase software, participate in hackathons, and share your related questions, ideas, feedback, and encouragement. Do not use our site to upload or post content that's not relevant, repeatedly post the same thing, or send excessive, unsolicited messages to other users. Do not use the follow or like features in a manner that triggers excessive notifications or places a burden on our systems. Devpost reserves the right to remove your content and/or block or remove your account if we believe you have violated the guidelines above. Please read our Terms of Service for complete terms and conditions related to your use of our site.).
+
+General info
+* Project name (<60 characters),
+* Elevator pitch Provide a short tagline for the project. You can change this later.(< 200 characters),
+Thumbnail prompt,
+
+Project details(For public project page, Information entered below will appear on your public project page.)
+Project Story
+* About the project (Be sure to write what inspired you, what you learned, how you built your project, and the challenges you faced. Format your story in Markdown, with LaTeX support for math.)
+(## Inspiration
+## What it does
+## How we built it
+## Challenges we ran into
+## Accomplishments that we're proud of
+## What we learned
+## What's next for ProjectName ),
+
+* Built with (What languages, frameworks, platforms, cloud services, databases, APIs, or other technologies did you use?),
+Image gallery(best names).
